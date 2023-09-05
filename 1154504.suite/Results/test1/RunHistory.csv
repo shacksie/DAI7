@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-09-05 10:18:37.143 +0100,"Failure",0:00:00,1,0,0,"20230905_101837.143/LogFile.txt","","SenseTalk Compiler Exception -- in test1:\nSyntax Error at line 20: Syntax Error - can't understand "","" at character 1",0
+2023-09-05 10:19:20.981 +0100,"Failure",0:00:00,1,0,0,"20230905_101920.981/LogFile.txt","","SenseTalk Compiler Exception -- in test1:\nSyntax Error at line 33: Syntax Error - can't understand [end of line] at character 18",0
+2023-09-05 11:26:18.969 +0100,"Failure",0:00:14,1,0,1,"20230905_112618.969/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""京东 SKU"")"" within 5.00 seconds. Text not found.  Restricted Search Rectangle ((463,274),(1675,329))\n",0

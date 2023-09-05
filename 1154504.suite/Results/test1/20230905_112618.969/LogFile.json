@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running test1.script",
+      "timestamp" : "2023-09-05 11:26:18.972 +0100"
+    },
+    {
+      "handlerName" : "on_test1",
+      "message" : "\/Users\/shacklet\/Documents\/1154504.suite\/Resources\/query_no_input.png:(null)",
+      "timestamp" : "2023-09-05 11:26:19.245 +0100",
+      "identifier" : "Connect",
+      "scriptName" : "test1.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_test1",
+      "message" : "(883,245,974,284)",
+      "timestamp" : "2023-09-05 11:26:20.087 +0100",
+      "identifier" : "readtext",
+      "scriptName" : "test1.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_test1",
+      "message" : "Unable To Find Any Image On Screen \"(TEXT:\"京东 SKU\")\" within 5.00 seconds. Text not found.",
+      "identifier" : "Exception",
+      "image" : "(TEXT:\"京东 SKU\")",
+      "handlerLine" : 9,
+      "timestamp" : "2023-09-05 11:26:32.948 +0100",
+      "scriptName" : "test1.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"14.081481\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-09-05 11:26:18 +0100\", Successes:\"0\", TestCase:\"test1.script\", Warnings:\"0\")",
+      "timestamp" : "2023-09-05 11:26:33.055 +0100"
+    },
+    {
+      "message" : "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"(TEXT:\"京东 SKU\")\" within 5.00 seconds. Text not found.  Restricted Search Rectangle ((463,274),(1675,329))\\n -- Execution Time 0:00:14 test1.script",
+      "timestamp" : "2023-09-05 11:26:33.221 +0100",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2023-09-05 11:26:18.973 +0100"
+}

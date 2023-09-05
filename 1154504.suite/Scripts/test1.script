@@ -1,0 +1,25 @@
+﻿Connect name:resourcepath("/query_no_input.png"), type:"screenshot"
+
+--Claire:
+
+put readtext ([883,245],[974,284], Text:"京东 SKU", Language:"English, ChinesePRC", WaitFor:8)
+
+--Shengpeng:
+
+waitFor 5, SearchRectangle:[463,274,1675,329], text:"京东 SKU", Language: "English, ChinesePRC"
+
+
+Connect name:resourcepath("/query_with_input.png"), type:"screenshot"
+
+--Claire:
+
+put readtext ([883,245],[974,284], Text:"京东 SKU", Language:"English, ChinesePRC", WaitFor:8)
+
+--Shengpeng:
+
+waitFor 5, SearchRectangle:[463,274,1675,329], text:"京东 SKU", Language: "English, ChinesePRC"
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="test1">
+ <run>
+  <RunDate>2023-09-05 10:18:37.143 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.010683</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230905_101837.143/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in test1:
+Syntax Error at line 20: Syntax Error - can&#x27;t understand &quot;,&quot; at character 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-09-05 10:19:20.981 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.006166</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230905_101920.981/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in test1:
+Syntax Error at line 33: Syntax Error - can&#x27;t understand [end of line] at character 18</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-09-05 11:26:18.969 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>14.085596</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230905_112618.969/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;京东 SKU&quot;)&quot; within 5.00 seconds. Text not found.  Restricted Search Rectangle ((463,274),(1675,329))
+</ErrorMessage>
+ </run>
+</runHistory>

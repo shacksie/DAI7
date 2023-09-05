@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="test1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2023-09-05 10:18:37 +0100</FirstRun>
+  <LastRun>2023-09-05 11:26:18 +0100</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>
