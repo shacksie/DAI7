@@ -1,0 +1,5 @@
+﻿2023-09-27 17:26:42.323 +0100	START		Running Untitled.script
+2023-09-27 17:26:42.625 +0100	capturescreen	Screen_Capture.png		1	on_untitled	Untitled.script
+2023-09-27 17:26:42.627 +0100	Log		Hello World	3	on_untitled	Untitled.script
+2023-09-27 17:26:42.642 +0100	EndTestCase		(Duration:"0.308723", Errors:"0", Exceptions:"0", StartTime:"2023-09-27 17:26:42 +0100", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2023-09-27 17:26:42.658 +0100	SUCCESS		Execution Time 0:00:00 Untitled.script

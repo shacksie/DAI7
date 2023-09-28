@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2023-09-27 17:26:42.323 +0100"
+    },
+    {
+      "handlerLine" : 1,
+      "handlerName" : "on_untitled",
+      "timestamp" : "2023-09-27 17:26:42.625 +0100",
+      "identifier" : "capturescreen",
+      "image" : "Screen_Capture.png",
+      "scriptName" : "Untitled.script"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Hello World",
+      "timestamp" : "2023-09-27 17:26:42.627 +0100",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.308723\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-09-27 17:26:42 +0100\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2023-09-27 17:26:42.642 +0100"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2023-09-27 17:26:42.658 +0100"
+    }
+  ],
+  "createdTimestamp" : "2023-09-27 17:26:42.329 +0100"
+}
