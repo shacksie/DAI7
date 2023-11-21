@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="hello_script" package="gituploadtest.suite" timestamp="2023-11-21 16:34:41.600 +0000"
+ tests="1"  failures="0" errors="0" time="0.444000">
+  <properties>
+   <property name="RunDate" value="2023-11-21 16:34:41.600 +0000"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="hello.script" assertions="1" status="success"  time="0.394">
+  </testcase>
+ </testsuite>
+</testsuites>

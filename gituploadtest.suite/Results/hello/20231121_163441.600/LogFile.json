@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running hello.script",
+				"identifier": "START",
+				"timestamp": "2023-11-21 16:34:41.616 +0000"
+			},
+		{
+				"message": "(Duration:\"0.394\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-21 16:34:41 +0000\", Successes:\"1\", TestCase:\"hello.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-21 16:34:42.057 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 hello.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-21 16:34:42.204 +0000"
+			}
+	],
+	"createdTimestamp": "2023-11-21 16:34:41.650 +0000"
+}
